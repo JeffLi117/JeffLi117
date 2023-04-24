@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <div>
 Hello there! My name is Jeffrey. 
 I am an aspiring software engineer with a background in medicine. My goal is to create accessible solutions that will improve the lives of individuals are around the world.
-
+  <br></br>
 When I'm not coding, I enjoy tinkering with new recipes in the kitchen and rock climbing.
+  <br></br>
 </div>
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
  
@@ -31,15 +32,12 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen and rock 
   <a href="https://www.linkedin.com/in/jeffrey-li-do/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br></br>
 <h1> 
 💻 Tech Stack:
 </h1>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-"  alt="React Badge" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-"  alt="JavaScript Badge" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-"  alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-"  alt="CSS3 Badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="React Badge" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 Badge"/>
 </div>
