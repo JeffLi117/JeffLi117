@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JeffLi117/JeffLi117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+<h1> 
+💫 About Me:
+</h1>
+<div>
+Hello there! My name is Jeffrey. 
+I am an aspiring software engineer with a background in medicine. My goal is to create accessible solutions that will improve the lives of individuals are around the world.
+
+When I'm not coding, I enjoy tinkering with new recipes in the kitchen and rock climbing.
+</div>
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
+ 
+<h1> 
+🌐 Socials:
+</h1>
+  <a href="https://www.linkedin.com/in/jeffrey-li-do/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<h1> 
+💻 Tech Stack:
+</h1>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+"  alt="React Badge" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+"  alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+"  alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+"  alt="CSS3 Badge"/>
+</div>
