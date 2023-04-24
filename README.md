@@ -24,7 +24,7 @@ I am an aspiring software engineer with a background in medicine. My goal is to 
 When I'm not coding, I enjoy tinkering with new recipes in the kitchen and rock climbing.
   <br></br>
 </div>
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI0Yzc5MWJhNmRjNzRkMWY4NjIyMzQ3ZmQzNmMzY2RjMDYyMGY0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/psYtkD1Wl7jfJXttiY/giphy.gif" width="100"/>
  
 <h1> 
 🌐 Socials:
@@ -43,4 +43,15 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen and rock 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"  alt="NPM Badge"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"  alt="Webpack Badge"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  alt="Markdown Badge"/>
+<h1> 
+📊 GitHub Stats:
+</h1>
+<a href="https://git.io/streak-stats"> 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=JeffLi117&theme=dark&border_radius=10" />
+</a>
+<br></br>
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffLi117&layout=compact&theme=vision-friendly-dark" />
+</a>
+
 </div>
