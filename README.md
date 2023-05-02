@@ -51,7 +51,7 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen and rock 
 </a>
 <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffLi117&layout=compact&theme=vision-friendly-dark" />
+<img src="https://github-readme-stats-jeffli117.vercel.app/api/top-langs/?username=JeffLi117&layout=compact&theme=vision-friendly-dark" />
 </a>
 
 </div>
