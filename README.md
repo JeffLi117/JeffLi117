@@ -50,10 +50,10 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen and rock 
 📊 GitHub Stats:
 </h1>
 <a href="https://git.io/streak-stats"> 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=JeffLi117&theme=radical" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=JeffLi117&theme=black" />
 </a>
 <br></br>
-<img src="https://github-readme-stats.vercel.app/api?username=JeffLi117&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=JeffLi117&show_icons=true&theme=black" />
 <br></br>
-<img src="https://github-readme-stats-jeffli117.vercel.app/api/top-langs/?username=JeffLi117&layout=compact&theme=radical" />
+<img src="https://github-readme-stats-jeffli117.vercel.app/api/top-langs/?username=JeffLi117&layout=compact&theme=black" />
 </div>
