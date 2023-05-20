@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 </h1>
 <div>
 Hello there! My name is Jeffrey. 
-I am an aspiring software engineer with a background in medicine. My goal is to create accessible solutions that will improve the lives of individuals all around the world.
+I'm a full-stack developer with a background in medicine. My goal is to create accessible solutions that will improve the lives of individuals all around the world.
   <br></br>
-When I'm not coding, I enjoy tinkering with new recipes in the kitchen and rock climbing.
+When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also love pizza.
   <br></br>
 </div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI0Yzc5MWJhNmRjNzRkMWY4NjIyMzQ3ZmQzNmMzY2RjMDYyMGY0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/psYtkD1Wl7jfJXttiY/giphy.gif" width="100"/>
