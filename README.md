@@ -53,7 +53,7 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also l
 <img src="http://github-readme-streak-stats.herokuapp.com?user=JeffLi117&theme=blue-green" />
 </a>
 <br></br>
-<img src="https://github-readme-stats.vercel.app/api?username=JeffLi117&show_icons=true&theme=blue-green" />
+<img src="https://github-readme-stats-jeffli117.vercel.app/api?username=JeffLi117&show_icons=true&theme=blue-green" />
 <br></br>
 <img src="https://github-readme-stats-jeffli117.vercel.app/api/top-langs/?username=JeffLi117&layout=compact&theme=blue-green" />
 </div>
