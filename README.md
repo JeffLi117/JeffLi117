@@ -28,12 +28,14 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also l
  
 <h1>
 🌐 Socials:
-</h1>
+  <br></br>
+  <a href="https://jeffrey-li-website.vercel.app/">
+    Portfolio
+  </a>
   <a href="https://www.linkedin.com/in/jeffrey-li-do/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br></br>
-<h1>
 💻 Tech Stack:
 </h1>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="React Badge" />
@@ -52,8 +54,4 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also l
 <a href="https://git.io/streak-stats"> 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=JeffLi117&theme=blue-green" />
 </a>
-<br></br>
-<img src="https://github-readme-stats-jeffli117.vercel.app/api?username=JeffLi117&show_icons=true&theme=blue-green" />
-<br></br>
-<img src="https://github-readme-stats-jeffli117.vercel.app/api/top-langs/?username=JeffLi117&layout=compact&theme=blue-green" />
 </div>
