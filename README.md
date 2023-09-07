@@ -48,6 +48,7 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also l
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  alt="Markdown Badge"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"  alt="Jest Badge"/>
 <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"  alt="Sveltekit Badge"/>
+<!--
 <h1>
 📊 GitHub Stats:
 </h1>
@@ -55,3 +56,4 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also l
 <img src="http://github-readme-streak-stats.herokuapp.com?user=JeffLi117&theme=blue-green" />
 </a>
 </div>
+-->
