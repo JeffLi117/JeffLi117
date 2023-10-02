@@ -45,10 +45,10 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also l
   <br></br>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"  alt="NPM Badge"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"  alt="Webpack Badge"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  alt="Markdown Badge"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"  alt="Jest Badge"/>
 <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"  alt="Sveltekit Badge"/>
 <!--
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  alt="Markdown Badge"/>
 <h1>
 📊 GitHub Stats:
 </h1>
