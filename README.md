@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div>
 Hello there! My name is Jeffrey. 
   <br>
-I'm a doctor turned full-stack developer.
+I'm a doctor turned full-stack software developer.
   <br>
 I like to code and build projects that other people can use, whether for entertainment or day-to-day use.
   <br>
