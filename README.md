@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 💫 About Me:
 </h1>
 <div>
-Hello there! My name is Jeffrey. 
+Hello there! My name is Jeffrey, a doctor turned developer.
   <br>
-I'm a doctor turned full-stack software developer.
+I’m currently a software engineer at Colorfull.ai, connecting artisan kitchen food with the modern workforce.
   <br>
 I like to code and build projects that other people can use, whether for entertainment or day-to-day use.
   <br>
@@ -31,7 +31,7 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also l
  
 <h1>
 🌐 Socials:</h1> 
-  <a href="https://jeffrey-li-website.vercel.app/">Portfolio</a>, <a href="https://www.linkedin.com/in/jeffrey-li-do/">LinkedIn</a>
+  <a href="https://doctor-code.org/">Portfolio</a>, <a href="https://www.linkedin.com/in/jeffrey-li-do/">LinkedIn</a>
   <br>
 <h1>💻 Tech Stack:</h1> 
 
