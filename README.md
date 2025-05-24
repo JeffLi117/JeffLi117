@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="left">
 <h1>
-💫 About Me:
+About Me:
 </h1>
 <div>
 Hello there! My name is Jeffrey, a doctor turned developer.
@@ -24,15 +24,18 @@ I’m currently a software engineer at Colorfull.ai, connecting artisan kitchen 
   <br>
 I like to code and build projects that other people can use, whether for entertainment or day-to-day use.
   <br>
-When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also love pizza.
+When I'm not coding, I'm eating pizza. Always.
   <br>
 </div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI0Yzc5MWJhNmRjNzRkMWY4NjIyMzQ3ZmQzNmMzY2RjMDYyMGY0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/psYtkD1Wl7jfJXttiY/giphy.gif" width="100"/>
  
-<h1>
-🌐 Socials:</h1> 
-  <a href="https://doctor-code.org/">Portfolio</a>, <a href="https://www.linkedin.com/in/jeffrey-li-do/">LinkedIn</a>
+<h1>Socials:</h1> 
+  <a href="https://doctor-code.org/">doctor-code.org</a>
   <br>
+  <a href="https://www.linkedin.com/in/jeffrey-li-do/">LinkedIn</a>
+  <br>
+
+<!--
+
 <h1>💻 Tech Stack:</h1> 
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  alt="JavaScript Badge" />
@@ -56,8 +59,6 @@ When I'm not coding, I enjoy tinkering with new recipes in the kitchen. I also l
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"  alt="Webpack Badge"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 Badge"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 Badge"/>
-
-<!--
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  alt="Markdown Badge"/>
 <h1>
 📊 GitHub Stats:
