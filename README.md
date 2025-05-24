@@ -23,7 +23,7 @@ Hello there! My name is Jeffrey, a doctor turned developer.
 I’m currently a software engineer at Colorfull.ai, connecting artisan kitchen food with the modern workforce.
   <br>
 I like to code and build projects that other people can use, whether for entertainment or day-to-day use.
-  <br>
+  <br><br>
 When I'm not coding, I'm eating pizza. Always.
   <br>
 </div>
